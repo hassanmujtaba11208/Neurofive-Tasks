@@ -1,0 +1,19 @@
+TechNova Pvt. Ltd. -- Software Engineer (Backend)
+
+TechNova Pvt. Ltd. is looking for a Software Engineer to join our platform team in Islamabad, Pakistan. This is a full-time, hybrid position (3 days in office).
+
+Responsibilities:
+  * Design, build and maintain REST APIs using Python and FastAPI
+  * Model data and write optimised queries in PostgreSQL
+  * Review code and write automated tests
+  * Deploy services with Docker on AWS
+
+Requirements:
+  - 2-4 years of professional experience in backend development
+  - Strong Python, FastAPI, PostgreSQL, Docker
+  - Bachelor's degree in Computer Science or a related field
+Nice to have: Kubernetes, Redis
+
+Compensation: PKR 250,000 - 350,000 per month, plus health insurance and an annual performance bonus.
+
+To apply, send your CV to careers@technova.example before 15 December 2026.

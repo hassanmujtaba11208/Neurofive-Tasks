@@ -1,0 +1,28 @@
+{
+  "title": "Registered Nurse - Intensive Care Unit (ICU)",
+  "company": "City General Hospital",
+  "location": "Karachi, Pakistan",
+  "employment_type": "full_time",
+  "workplace_type": "onsite",
+  "description": "Registered Nurse for a 24-bed adult ICU working rotating 12-hour shifts.",
+  "responsibilities": [
+    "Monitor ventilated and critically ill patients",
+    "Administer IV medications and infusions",
+    "Maintain accurate patient charts",
+    "Assist physicians during procedures",
+    "Escalate deteriorating patients per protocol"
+  ],
+  "required_skills": ["Ventilator care", "Central-line care", "PNC registration", "BLS", "ACLS"],
+  "preferred_skills": ["Electronic medical records"],
+  "education": "BSc Nursing (4 years) from a PNC-recognised institution",
+  "minimum_experience_years": 3.0,
+  "maximum_experience_years": null,
+  "salary_min": 140000.0,
+  "salary_max": 140000.0,
+  "salary_currency": "PKR",
+  "salary_period": "monthly",
+  "application_email": "hr@citygeneral.example",
+  "application_url": null,
+  "application_deadline": null,
+  "benefits": ["Shift allowance", "Medical cover for self and family", "Annual leave"]
+}

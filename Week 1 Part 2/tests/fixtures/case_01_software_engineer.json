@@ -1,0 +1,27 @@
+{
+  "title": "Software Engineer (Backend)",
+  "company": "TechNova Pvt. Ltd.",
+  "location": "Islamabad, Pakistan",
+  "employment_type": "full_time",
+  "workplace_type": "hybrid",
+  "description": "Backend Software Engineer on TechNova's platform team, building and deploying Python services.",
+  "responsibilities": [
+    "Design, build and maintain REST APIs using Python and FastAPI",
+    "Model data and write optimised queries in PostgreSQL",
+    "Review code and write automated tests",
+    "Deploy services with Docker on AWS"
+  ],
+  "required_skills": ["Python", "FastAPI", "PostgreSQL", "Docker"],
+  "preferred_skills": ["Kubernetes", "Redis"],
+  "education": "Bachelor's degree in Computer Science or a related field",
+  "minimum_experience_years": 2.0,
+  "maximum_experience_years": 4.0,
+  "salary_min": 250000.0,
+  "salary_max": 350000.0,
+  "salary_currency": "PKR",
+  "salary_period": "monthly",
+  "application_email": "careers@technova.example",
+  "application_url": null,
+  "application_deadline": "2026-12-15",
+  "benefits": ["Health insurance", "Annual performance bonus"]
+}

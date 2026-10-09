@@ -1,0 +1,21 @@
+Data Analyst (100% Remote) | Northwind Analytics, Berlin (global team)
+
+About us: Northwind Analytics builds pricing software for retailers in 14 countries. Our team of 60 is fully distributed - we hire from anywhere within +/- 3 hours of CET.
+
+The role
+You will turn messy commercial data into decisions. Day to day you will:
+ 1. Write SQL against our Snowflake warehouse to answer ad-hoc questions
+ 2. Build and maintain dashboards in Looker
+ 3. Run A/B test analyses and present findings to product managers
+ 4. Automate recurring reports with Python (pandas)
+
+You bring
+ - 3+ years as a data / BI analyst
+ - Advanced SQL, solid Python (pandas), Excel / Google Sheets
+ - Good written English
+Bonus points: dbt, statistics background
+
+We offer EUR 55,000 - 68,000 gross per year, 30 days paid vacation, home-office budget, and a yearly conference budget.
+
+Apply here: https://careers.northwind-analytics.example/jobs/data-analyst-4821
+Applications close 30 November 2026.

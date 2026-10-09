@@ -1,0 +1,27 @@
+{
+  "title": "Data Analyst",
+  "company": "Northwind Analytics",
+  "location": null,
+  "employment_type": "unknown",
+  "workplace_type": "remote",
+  "description": "Remote Data Analyst turning commercial data into decisions for a retail pricing software company.",
+  "responsibilities": [
+    "Write SQL against the Snowflake warehouse for ad-hoc questions",
+    "Build and maintain Looker dashboards",
+    "Run A/B test analyses and present findings to product managers",
+    "Automate recurring reports with Python (pandas)"
+  ],
+  "required_skills": ["SQL", "Python", "pandas", "Excel", "Google Sheets"],
+  "preferred_skills": ["dbt", "Statistics"],
+  "education": null,
+  "minimum_experience_years": 3.0,
+  "maximum_experience_years": null,
+  "salary_min": 55000.0,
+  "salary_max": 68000.0,
+  "salary_currency": "EUR",
+  "salary_period": "yearly",
+  "application_email": null,
+  "application_url": "https://careers.northwind-analytics.example/jobs/data-analyst-4821",
+  "application_deadline": "2026-11-30",
+  "benefits": ["30 days paid vacation", "Home-office budget", "Yearly conference budget"]
+}

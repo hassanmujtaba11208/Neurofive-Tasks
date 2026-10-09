@@ -1,0 +1,26 @@
+{
+  "title": "Web Dev Intern",
+  "company": "PixelBridge Studio",
+  "location": "Rawalpindi, Pakistan",
+  "employment_type": "internship",
+  "workplace_type": "onsite",
+  "description": "Eight-week summer internship helping build client websites at a small design and development studio.",
+  "responsibilities": [
+    "Help build client websites",
+    "Fix bugs",
+    "Learn Git and code review with senior developers"
+  ],
+  "required_skills": ["HTML", "CSS", "JavaScript"],
+  "preferred_skills": ["React"],
+  "education": "Currently enrolled undergraduate student (CS / SE / IT), 3rd year or above",
+  "minimum_experience_years": null,
+  "maximum_experience_years": null,
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null,
+  "salary_period": "unknown",
+  "application_email": "intern@pixelbridge.example",
+  "application_url": null,
+  "application_deadline": null,
+  "benefits": ["Certificate", "Recommendation letter"]
+}

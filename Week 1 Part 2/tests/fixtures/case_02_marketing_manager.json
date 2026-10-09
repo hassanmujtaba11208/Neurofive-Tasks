@@ -1,0 +1,28 @@
+{
+  "title": "Marketing Manager",
+  "company": "GreenLeaf Organics",
+  "location": "Lahore, Pakistan",
+  "employment_type": "full_time",
+  "workplace_type": "hybrid",
+  "description": "Marketing Manager responsible for social media, email, campaigns and reporting at a tea and snack brand.",
+  "responsibilities": [
+    "Own social media and email newsletters",
+    "Plan campaigns and launches",
+    "Manage two freelance designers and the agency",
+    "Track numbers and report to the founders monthly",
+    "Help with events and pop-ups"
+  ],
+  "required_skills": ["Canva", "Meta Ads Manager", "Mailchimp"],
+  "preferred_skills": ["Google Analytics"],
+  "education": null,
+  "minimum_experience_years": 5.0,
+  "maximum_experience_years": null,
+  "salary_min": null,
+  "salary_max": null,
+  "salary_currency": null,
+  "salary_period": "unknown",
+  "application_email": "hello@greenleaf-organics.example",
+  "application_url": null,
+  "application_deadline": null,
+  "benefits": ["Free tea", "Health cover", "25 days leave", "Birthday off", "Learning budget"]
+}
